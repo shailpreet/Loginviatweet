@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Loginviatweet</string>
+    <string name="facebook_app_id">1130637583622898</string>
+    <string name="hint_gender">Gender</string>
+    <string name="hint_phonenumber">Phone no</string>
+    <string name="text_address">Text address</string>
+    <string name="hint_locality">Locality</string>
+    <string name="hint_city">City</string>
+    <string name="hint_state">State</string>
+    <string name="hint_pincode">Pincode</string>
+    <string name="finishbutton" />
+    <string name="loading">loading</string>
+</resources>
